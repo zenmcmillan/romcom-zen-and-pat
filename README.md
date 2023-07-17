@@ -27,7 +27,7 @@ Values used to create custom books will be added to the "Show New Random Cover" 
 9. Enjoy!
 
 ### Preview of App:
-https://imgur.com/ssFjDKS
+![CAT!](https://imgur.com/ssFjDKS)
 
 
 
